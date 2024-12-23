@@ -800,3 +800,22 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Dec2024 06:15:35.739] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-3, y=104, z=-11}
 [23Dec2024 06:16:20.449] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-4, y=104, z=-11}
 [23Dec2024 06:16:20.664] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-5, y=104, z=-11}
+[23Dec2024 06:16:59.158] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADES5 lost connection: Disconnected
+[23Dec2024 06:16:59.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADES5 left the game
+[23Dec2024 06:16:59.159] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 47bb66ad-fb58-339e-805b-0523264facf1 was unloaded
+[23Dec2024 06:16:59.160] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ADES5
+[23Dec2024 06:19:31.233] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: youcriper[/172.24.98.170:58341] logged in with entity id 1334 at (-1899.9225444955246, 69.0, 1770.0504013285201)
+[23Dec2024 06:19:31.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: youcriper joined the game
+[23Dec2024 06:19:32.571] [Server thread/WARN] [ImprovableSkills/]: Skill tick took too long! (1183 ms, expected <50 ms!). Time map: [improvableskills:accelerated_furnace=1183, improvableskills:luck_of_the_sea=0, improvableskills:silent_foot=0, improvableskills:obsidian_skin=0, improvableskills:attack_speed=0, improvableskills:dexterous_arms=0, improvableskills:huckster=0, improvableskills:fast_swimmer=0, improvableskills:growth=0, improvableskills:pvp=0, improvableskills:xp_plus=0, improvableskills:soft_landing=0, improvableskills:cutting=0, improvableskills:treasure_sands=0, improvableskills:mob_repellent=0, improvableskills:mining=0, improvableskills:atkdmg_ranged=0, improvableskills:alchemist=0, improvableskills:leaper=0, improvableskills:atkdmg_melee=0, improvableskills:ladder_king=0, improvableskills:ender_manipulator=0, improvableskills:generic_protection=0, improvableskills:health=0, improvableskills:enchanter=0, improvableskills:digging=0, improvableskills:soul_speed=0]
+[23Dec2024 06:19:32.577] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of youcriper (18)
+[23Dec2024 06:19:32.577] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to youcriper
+[23Dec2024 06:19:32.577] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9f14b36d-5b4d-33af-bc66-3bfc295459d2 was loaded
+[23Dec2024 06:19:38.414] [Server thread/INFO] [do_a_barrel_roll/]: Client of youcriper accepted server config.
+[23Dec2024 06:19:38.474] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9f14b36d-5b4d-33af-bc66-3bfc295459d2
+[23Dec2024 06:19:38.890] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to youcriper (9f14b36d-5b4d-33af-bc66-3bfc295459d2)
+[23Dec2024 06:19:39.502] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9f14b36d-5b4d-33af-bc66-3bfc295459d2
+[23Dec2024 06:19:39.504] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player youcriper (9f14b36d-5b4d-33af-bc66-3bfc295459d2) successfully connected to voice chat
+[23Dec2024 06:19:46.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [youcriper: Set own game mode to Creative Mode]
+[23Dec2024 06:20:01.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [youcriper: Set own game mode to Spectator Mode]
+[23Dec2024 06:20:39.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [youcriper: Teleported youcriper to 0.500000, 100.000000, 0.500000]
+[23Dec2024 06:20:46.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [youcriper: Set own game mode to Creative Mode]
