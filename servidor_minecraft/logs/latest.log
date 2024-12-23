@@ -943,3 +943,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Dec2024 08:02:24.620] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9f14b36d-5b4d-33af-bc66-3bfc295459d2
 [23Dec2024 08:02:24.621] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player youcriper (9f14b36d-5b4d-33af-bc66-3bfc295459d2) successfully connected to voice chat
 [23Dec2024 08:05:51.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: youcriper has made the advancement [Forged in Flame]
+[23Dec2024 08:07:05.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: youcriper has made the advancement [A Flaming Sword]
