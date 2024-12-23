@@ -965,3 +965,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Dec2024 08:20:22.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADES5 has made the advancement [Forged in Flame]
 [23Dec2024 08:22:42.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADES5 has made the advancement [A Flaming Sword]
 [23Dec2024 08:24:07.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADES5 moved wrongly!
+[23Dec2024 09:25:01.477] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADES5 lost connection: Disconnected
+[23Dec2024 09:25:01.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADES5 left the game
+[23Dec2024 09:25:01.478] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 47bb66ad-fb58-339e-805b-0523264facf1 was unloaded
+[23Dec2024 09:25:01.479] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ADES5
