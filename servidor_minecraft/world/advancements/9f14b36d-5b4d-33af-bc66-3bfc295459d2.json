@@ -5020,5 +5020,11 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonsteel_weapon": {
+    "criteria": {
+      "sword": "2024-12-23 07:44:53 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
