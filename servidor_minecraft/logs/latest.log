@@ -912,3 +912,34 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Dec2024 07:49:45.469] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9f14b36d-5b4d-33af-bc66-3bfc295459d2
 [23Dec2024 07:49:45.469] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player youcriper (9f14b36d-5b4d-33af-bc66-3bfc295459d2) successfully connected to voice chat
 [23Dec2024 07:54:55.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: youcriper has made the advancement [Spooky Scary Skeleton]
+[23Dec2024 07:56:18.776] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: youcriper lost connection: Disconnected
+[23Dec2024 07:56:18.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: youcriper left the game
+[23Dec2024 07:56:18.777] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9f14b36d-5b4d-33af-bc66-3bfc295459d2 was unloaded
+[23Dec2024 07:56:18.777] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client youcriper
+[23Dec2024 07:56:48.241] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ADES5[/172.24.98.170:59768] logged in with entity id 6029 at (-10.300000011920929, 69.0, 40.30000001192093)
+[23Dec2024 07:56:48.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADES5 joined the game
+[23Dec2024 07:56:48.685] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ADES5 (18)
+[23Dec2024 07:56:48.686] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ADES5
+[23Dec2024 07:56:48.687] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 47bb66ad-fb58-339e-805b-0523264facf1 was loaded
+[23Dec2024 07:56:48.688] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to ADES5 (47bb66ad-fb58-339e-805b-0523264facf1)
+[23Dec2024 07:56:52.193] [Server thread/INFO] [do_a_barrel_roll/]: Client of ADES5 accepted server config.
+[23Dec2024 07:56:52.282] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 47bb66ad-fb58-339e-805b-0523264facf1
+[23Dec2024 07:56:53.251] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 47bb66ad-fb58-339e-805b-0523264facf1
+[23Dec2024 07:56:53.251] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ADES5 (47bb66ad-fb58-339e-805b-0523264facf1) successfully connected to voice chat
+[23Dec2024 07:58:28.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADES5 has made the advancement [Draconic Evolution]
+[23Dec2024 07:59:04.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADES5 has made the advancement [Spooky Scary Skeleton]
+[23Dec2024 08:01:59.278] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADES5 lost connection: Disconnected
+[23Dec2024 08:01:59.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADES5 left the game
+[23Dec2024 08:01:59.279] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 47bb66ad-fb58-339e-805b-0523264facf1 was unloaded
+[23Dec2024 08:01:59.279] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ADES5
+[23Dec2024 08:02:19.097] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: youcriper[/172.24.98.170:59826] logged in with entity id 6624 at (-10.237332888283447, 69.0, 59.30000001192093)
+[23Dec2024 08:02:19.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: youcriper joined the game
+[23Dec2024 08:02:19.336] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of youcriper (18)
+[23Dec2024 08:02:19.337] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to youcriper
+[23Dec2024 08:02:19.337] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9f14b36d-5b4d-33af-bc66-3bfc295459d2 was loaded
+[23Dec2024 08:02:19.338] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to youcriper (9f14b36d-5b4d-33af-bc66-3bfc295459d2)
+[23Dec2024 08:02:23.565] [Server thread/INFO] [do_a_barrel_roll/]: Client of youcriper accepted server config.
+[23Dec2024 08:02:23.647] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9f14b36d-5b4d-33af-bc66-3bfc295459d2
+[23Dec2024 08:02:24.620] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9f14b36d-5b4d-33af-bc66-3bfc295459d2
+[23Dec2024 08:02:24.621] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player youcriper (9f14b36d-5b4d-33af-bc66-3bfc295459d2) successfully connected to voice chat
+[23Dec2024 08:05:51.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: youcriper has made the advancement [Forged in Flame]
