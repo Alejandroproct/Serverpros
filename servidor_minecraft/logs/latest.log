@@ -944,3 +944,24 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Dec2024 08:02:24.621] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player youcriper (9f14b36d-5b4d-33af-bc66-3bfc295459d2) successfully connected to voice chat
 [23Dec2024 08:05:51.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: youcriper has made the advancement [Forged in Flame]
 [23Dec2024 08:07:05.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: youcriper has made the advancement [A Flaming Sword]
+[23Dec2024 08:18:13.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [youcriper: Teleported youcriper to -1900.500000, 69.000000, 1771.500000]
+[23Dec2024 08:18:21.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [youcriper: Set own game mode to Survival Mode]
+[23Dec2024 08:18:53.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [youcriper: Set own game mode to Spectator Mode]
+[23Dec2024 08:19:05.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [youcriper: Set own game mode to Survival Mode]
+[23Dec2024 08:19:27.683] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: youcriper lost connection: Disconnected
+[23Dec2024 08:19:27.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: youcriper left the game
+[23Dec2024 08:19:27.684] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9f14b36d-5b4d-33af-bc66-3bfc295459d2 was unloaded
+[23Dec2024 08:19:27.684] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client youcriper
+[23Dec2024 08:19:51.139] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ADES5[/172.24.98.170:59935] logged in with entity id 8752 at (-12.068978953697775, 69.0, 58.19490109863182)
+[23Dec2024 08:19:51.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADES5 joined the game
+[23Dec2024 08:19:51.549] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ADES5 (18)
+[23Dec2024 08:19:51.550] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ADES5
+[23Dec2024 08:19:51.550] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 47bb66ad-fb58-339e-805b-0523264facf1 was loaded
+[23Dec2024 08:19:51.552] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to ADES5 (47bb66ad-fb58-339e-805b-0523264facf1)
+[23Dec2024 08:19:55.201] [Server thread/INFO] [do_a_barrel_roll/]: Client of ADES5 accepted server config.
+[23Dec2024 08:19:55.341] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 47bb66ad-fb58-339e-805b-0523264facf1
+[23Dec2024 08:19:56.251] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 47bb66ad-fb58-339e-805b-0523264facf1
+[23Dec2024 08:19:56.251] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ADES5 (47bb66ad-fb58-339e-805b-0523264facf1) successfully connected to voice chat
+[23Dec2024 08:20:22.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADES5 has made the advancement [Forged in Flame]
+[23Dec2024 08:22:42.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADES5 has made the advancement [A Flaming Sword]
+[23Dec2024 08:24:07.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADES5 moved wrongly!
