@@ -837,3 +837,35 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Dec2024 07:20:21.166] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 47bb66ad-fb58-339e-805b-0523264facf1
 [23Dec2024 07:20:21.167] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ADES5 (47bb66ad-fb58-339e-805b-0523264facf1) successfully connected to voice chat
 [23Dec2024 07:21:33.922] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-5, y=104, z=-13}
+[23Dec2024 07:32:15.625] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADES5 lost connection: Timed out
+[23Dec2024 07:32:15.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADES5 left the game
+[23Dec2024 07:32:15.626] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 47bb66ad-fb58-339e-805b-0523264facf1 was unloaded
+[23Dec2024 07:32:15.627] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ADES5
+[23Dec2024 07:33:13.154] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ADES5[/172.24.98.170:59485] logged in with entity id 3666 at (-10.349322867271246, 69.0, 40.32904871068795)
+[23Dec2024 07:33:13.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADES5 joined the game
+[23Dec2024 07:33:13.574] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ADES5 (18)
+[23Dec2024 07:33:13.575] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ADES5
+[23Dec2024 07:33:13.608] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 47bb66ad-fb58-339e-805b-0523264facf1 was loaded
+[23Dec2024 07:33:13.805] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to ADES5 (47bb66ad-fb58-339e-805b-0523264facf1)
+[23Dec2024 07:33:17.250] [Server thread/INFO] [do_a_barrel_roll/]: Client of ADES5 accepted server config.
+[23Dec2024 07:33:17.305] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 47bb66ad-fb58-339e-805b-0523264facf1
+[23Dec2024 07:33:18.307] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 47bb66ad-fb58-339e-805b-0523264facf1
+[23Dec2024 07:33:18.307] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ADES5 (47bb66ad-fb58-339e-805b-0523264facf1) successfully connected to voice chat
+[23Dec2024 07:34:36.196] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: youcriper[/172.24.98.170:59522] logged in with entity id 3806 at (-25.06505185477332, 105.0, -7.510949579634837)
+[23Dec2024 07:34:36.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: youcriper joined the game
+[23Dec2024 07:34:36.427] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of youcriper (18)
+[23Dec2024 07:34:36.428] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to youcriper
+[23Dec2024 07:34:36.429] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9f14b36d-5b4d-33af-bc66-3bfc295459d2 was loaded
+[23Dec2024 07:34:36.496] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to youcriper (9f14b36d-5b4d-33af-bc66-3bfc295459d2)
+[23Dec2024 07:34:41.312] [Server thread/INFO] [do_a_barrel_roll/]: Client of youcriper accepted server config.
+[23Dec2024 07:34:56.630] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9f14b36d-5b4d-33af-bc66-3bfc295459d2
+[23Dec2024 07:34:57.727] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9f14b36d-5b4d-33af-bc66-3bfc295459d2
+[23Dec2024 07:34:57.727] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player youcriper (9f14b36d-5b4d-33af-bc66-3bfc295459d2) successfully connected to voice chat
+[23Dec2024 07:35:10.181] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: youcriper lost connection: Timed out
+[23Dec2024 07:35:10.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: youcriper left the game
+[23Dec2024 07:35:10.182] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9f14b36d-5b4d-33af-bc66-3bfc295459d2 was unloaded
+[23Dec2024 07:35:10.183] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client youcriper
+[23Dec2024 07:35:20.625] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADES5 lost connection: Disconnected
+[23Dec2024 07:35:20.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADES5 left the game
+[23Dec2024 07:35:20.626] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 47bb66ad-fb58-339e-805b-0523264facf1 was unloaded
+[23Dec2024 07:35:20.626] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ADES5
