@@ -876,3 +876,51 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Dec2024 01:43:39.771] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 127076bd-d1f9-30f9-bc36-cc9b6062ff13
 [24Dec2024 01:43:39.772] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cafeconpan08 (127076bd-d1f9-30f9-bc36-cc9b6062ff13) successfully connected to voice chat
 [24Dec2024 01:43:40.135] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to cafeconpan08 (127076bd-d1f9-30f9-bc36-cc9b6062ff13)
+[24Dec2024 01:49:24.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: youcriper was slain by Enzosunder
+[24Dec2024 01:49:26.462] [Server thread/INFO] [do_a_barrel_roll/]: Client of youcriper accepted server config.
+[24Dec2024 01:52:36.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: youcriper was slain by Enzosunder
+[24Dec2024 01:52:38.586] [Server thread/INFO] [do_a_barrel_roll/]: Client of youcriper accepted server config.
+[24Dec2024 01:53:11.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: youcriper was slain by Enzosunder
+[24Dec2024 01:53:13.073] [Server thread/INFO] [do_a_barrel_roll/]: Client of youcriper accepted server config.
+[24Dec2024 01:54:27.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: youcriper was slain by Enzosunder
+[24Dec2024 01:54:29.225] [Server thread/INFO] [do_a_barrel_roll/]: Client of youcriper accepted server config.
+[24Dec2024 01:59:23.324] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1066, y=-58, z=607}
+[24Dec2024 01:59:23.326] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1067, y=-58, z=602}
+[24Dec2024 01:59:23.327] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1067, y=-58, z=609}
+[24Dec2024 01:59:34.983] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1074, y=-58, z=601}
+[24Dec2024 01:59:34.984] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1075, y=-58, z=606}
+[24Dec2024 01:59:34.984] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1075, y=-58, z=614}
+[24Dec2024 01:59:34.984] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1074, y=-58, z=609}
+[24Dec2024 01:59:44.807] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1066, y=-58, z=615}
+[24Dec2024 01:59:44.807] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1068, y=-58, z=620}
+[24Dec2024 01:59:44.852] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1073, y=-58, z=620}
+[24Dec2024 01:59:44.852] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1074, y=-58, z=626}
+[24Dec2024 02:01:45.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Enzosunder moved too quickly! -8.57634243235509,-0.7967356006687112,6.141981648365345
+[24Dec2024 02:01:45.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: youcriper moved too quickly! -8.025205568483557,1.5764407054569602,6.0961573935783235
+[24Dec2024 02:01:45.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cafeconpan08 moved too quickly! -8.54505778274472,0.0,5.788017354047497
+[24Dec2024 02:01:45.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADES5 moved too quickly! -5.127745639497903,-1.1767592750642422,8.665767595912257
+[24Dec2024 02:01:45.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zoti5 moved too quickly! -4.778968313231303,0.0,8.93018179787714
+[24Dec2024 02:01:45.657] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16999ms or 339 ticks behind
+[24Dec2024 02:02:27.317] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[24Dec2024 02:02:27.319] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[24Dec2024 02:02:29.808] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[24Dec2024 02:03:26.486] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=-51, z=-248}
+[24Dec2024 02:03:30.952] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-298, y=-51, z=-257}
+[24Dec2024 02:03:31.105] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-296, y=-31, z=-249}
+[24Dec2024 02:03:31.106] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-298, y=-51, z=-239}
+[24Dec2024 02:03:50.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enzosunder has made the advancement [Draconic Evolution]
+[24Dec2024 02:03:56.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zoti5 has made the advancement [Draconic Evolution]
+[24Dec2024 02:04:48.411] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[24Dec2024 02:05:50.571] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-423, y=-50, z=-211}
+[24Dec2024 02:05:50.578] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[24Dec2024 02:05:50.579] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[24Dec2024 02:05:50.579] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[24Dec2024 02:05:50.579] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[24Dec2024 02:05:50.580] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[24Dec2024 02:05:50.667] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
+[24Dec2024 02:05:50.668] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
+[24Dec2024 02:05:50.668] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[24Dec2024 02:05:50.709] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[24Dec2024 02:06:08.462] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2754ms or 55 ticks behind
+[24Dec2024 02:06:28.369] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[24Dec2024 02:06:46.065] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2707ms or 54 ticks behind

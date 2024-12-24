@@ -1351,6 +1351,7 @@
       "minecraft:beach": "2024-12-18 22:17:20 +0000",
       "minecraft:river": "2024-12-18 01:38:16 +0000",
       "minecraft:snowy_plains": "2024-12-20 00:02:36 +0000",
+      "minecraft:snowy_taiga": "2024-12-24 01:58:30 +0000",
       "minecraft:swamp": "2024-12-18 22:14:39 +0000",
       "minecraft:cold_ocean": "2024-12-18 23:34:44 +0000",
       "minecraft:forest": "2024-12-18 22:16:22 +0000",
@@ -5975,9 +5976,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_white_leggings": {
+    "criteria": {
+      "has_item": "2024-12-24 02:00:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2024-12-24 01:37:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_helmet": {
+    "criteria": {
+      "has_item": "2024-12-24 02:00:19 +0000"
     },
     "done": true
   },
@@ -5987,9 +6000,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
+    "criteria": {
+      "has_dragonscales_white": "2024-12-24 02:00:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-24 02:00:19 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/spruce": {
     "criteria": {
       "has_wood": "2024-12-24 01:37:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_boots": {
+    "criteria": {
+      "has_item": "2024-12-24 02:00:19 +0000"
     },
     "done": true
   },
@@ -6002,6 +6033,12 @@
   "iceandfire:recipes/misc/bestiary": {
     "criteria": {
       "has_item": "2024-12-24 01:39:34 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/naga": {
+    "criteria": {
+      "kill": "2024-12-24 01:56:30 +0000"
     },
     "done": true
   },

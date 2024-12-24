@@ -929,7 +929,9 @@
       "minecraft:beach": "2024-12-18 22:17:18 +0000",
       "minecraft:dark_forest": "2024-12-19 02:13:26 +0000",
       "minecraft:river": "2024-12-18 01:52:17 +0000",
+      "minecraft:snowy_plains": "2024-12-24 01:58:23 +0000",
       "minecraft:dripstone_caves": "2024-12-19 22:58:13 +0000",
+      "minecraft:snowy_taiga": "2024-12-24 01:58:30 +0000",
       "minecraft:swamp": "2024-12-18 22:14:45 +0000",
       "minecraft:grove": "2024-12-20 00:13:53 +0000",
       "minecraft:cold_ocean": "2024-12-18 23:34:45 +0000",
@@ -5269,6 +5271,54 @@
   "smallships:recipes/combat/cannon": {
     "criteria": {
       "has_ship": "2024-12-23 08:10:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2024-12-24 01:58:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2024-12-24 01:58:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2024-12-24 01:58:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2024-12-24 01:58:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-24 01:59:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-24 01:59:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-24 01:58:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2024-12-24 01:59:54 +0000"
     },
     "done": true
   },

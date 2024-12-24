@@ -1009,6 +1009,8 @@
       "minecraft:cherry_grove": "2024-12-20 01:12:02 +0000",
       "minecraft:beach": "2024-12-18 22:22:17 +0000",
       "minecraft:river": "2024-12-18 01:38:11 +0000",
+      "minecraft:snowy_plains": "2024-12-24 01:58:17 +0000",
+      "minecraft:snowy_taiga": "2024-12-24 01:58:27 +0000",
       "minecraft:swamp": "2024-12-18 22:14:38 +0000",
       "minecraft:cold_ocean": "2024-12-18 22:56:31 +0000",
       "minecraft:forest": "2024-12-18 22:16:24 +0000",
@@ -5662,9 +5664,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-24 01:48:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonsteel_weapon": {
+    "criteria": {
+      "axe": "2024-12-24 02:03:56 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-24 01:48:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-24 01:48:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-24 01:48:20 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
       "has_copper_backpack": "2024-12-24 01:32:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-24 01:48:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-24 01:48:20 +0000"
     },
     "done": true
   },
