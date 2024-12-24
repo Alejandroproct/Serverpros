@@ -2136,8 +2136,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2024-12-24 04:29:08 +0000",
       "minecraft:old_growth_pine_taiga": "2024-12-18 22:56:33 +0000",
       "minecraft:taiga": "2024-12-18 22:34:19 +0000",
+      "minecraft:frozen_river": "2024-12-24 04:26:49 +0000",
       "minecraft:cherry_grove": "2024-12-19 21:53:41 +0000",
       "minecraft:dark_forest": "2024-12-18 22:34:40 +0000",
       "minecraft:river": "2024-12-18 22:33:57 +0000",
@@ -2147,6 +2149,7 @@
       "minecraft:swamp": "2024-12-19 02:13:50 +0000",
       "minecraft:forest": "2024-12-20 01:54:24 +0000",
       "minecraft:lush_caves": "2024-12-18 22:26:58 +0000",
+      "minecraft:frozen_peaks": "2024-12-24 04:29:38 +0000",
       "minecraft:deep_dark": "2024-12-19 21:27:39 +0000",
       "minecraft:meadow": "2024-12-19 21:53:26 +0000",
       "minecraft:plains": "2024-12-20 01:51:00 +0000"
@@ -3960,6 +3963,7 @@
       "minecraft:creeper": "2024-12-19 22:29:15 +0000",
       "minecraft:husk": "2024-12-19 22:13:50 +0000",
       "minecraft:enderman": "2024-12-24 04:09:03 +0000",
+      "minecraft:stray": "2024-12-24 04:30:28 +0000",
       "minecraft:zombie": "2024-12-19 21:42:45 +0000"
     },
     "done": false
@@ -5581,6 +5585,30 @@
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2024-12-24 04:12:22 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2024-12-24 04:30:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/stymphalian_arrow": {
+    "criteria": {
+      "bestiary": "2024-12-24 04:31:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-12-24 04:31:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/iron_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-12-24 04:31:21 +0000"
     },
     "done": true
   },

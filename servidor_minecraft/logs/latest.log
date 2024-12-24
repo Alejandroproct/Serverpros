@@ -1202,3 +1202,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Dec2024 04:26:43.744] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Zoti5 (8d55b18e-3be9-38ad-9d11-f3bbb2141d3d) successfully connected to voice chat
 [24Dec2024 04:26:57.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADES5 has made the advancement [My Name is Nobody]
 [24Dec2024 04:28:08.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADES5 has reached the goal [Hunted]
+[24Dec2024 04:29:16.729] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2071ms or 41 ticks behind
+[24Dec2024 04:29:37.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5329ms or 106 ticks behind
+[24Dec2024 04:31:14.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cafeconpan08 has made the advancement [Flying Forwards]
+[24Dec2024 04:31:51.032] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/67857, l='ServerLevel[world]', x=-529.28, y=155.50, z=1914.63] died, message: 'Villager suffocated in a wall'
+[24Dec2024 04:37:07.146] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[24Dec2024 04:37:24.537] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2429ms or 48 ticks behind
+[24Dec2024 04:37:36.576] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/66972, l='ServerLevel[world]', x=-1408.36, y=76.00, z=1649.70] died, message: 'Farmer was turned to ice by Ice Dragon'
+[24Dec2024 04:38:11.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cafeconpan08 has made the advancement [Dragonslayer]
