@@ -4,5 +4,11 @@
     "name": "youcriper",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "47bb66ad-fb58-339e-805b-0523264facf1",
+    "name": "ADES5",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
