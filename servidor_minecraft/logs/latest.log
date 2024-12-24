@@ -1234,3 +1234,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Dec2024 05:11:15.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Enzosunder> t
 [24Dec2024 05:13:01.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Enzosunder) moved wrongly! 0.6179830554206972
 [24Dec2024 05:17:28.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cafeconpan08 has made the advancement [Best Friends Forever]
+[24Dec2024 05:22:34.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cafeconpan08 moved wrongly!
+[24Dec2024 05:24:38.217] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Enzosunder lost connection: Disconnected
+[24Dec2024 05:24:38.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enzosunder left the game
+[24Dec2024 05:24:38.218] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1c8ea871-9dbc-388b-afd4-075bad094fbf was unloaded
+[24Dec2024 05:24:38.218] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Enzosunder
+[24Dec2024 05:26:17.968] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cafeconpan08 lost connection: Disconnected
+[24Dec2024 05:26:17.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cafeconpan08 left the game
+[24Dec2024 05:26:17.969] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 127076bd-d1f9-30f9-bc36-cc9b6062ff13 was unloaded
+[24Dec2024 05:26:17.970] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client cafeconpan08
+[24Dec2024 05:30:28.617] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zoti5 lost connection: Disconnected
+[24Dec2024 05:30:28.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zoti5 left the game
+[24Dec2024 05:30:28.618] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8d55b18e-3be9-38ad-9d11-f3bbb2141d3d was unloaded
+[24Dec2024 05:30:28.618] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zoti5
