@@ -1210,3 +1210,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Dec2024 04:37:24.537] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2429ms or 48 ticks behind
 [24Dec2024 04:37:36.576] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/66972, l='ServerLevel[world]', x=-1408.36, y=76.00, z=1649.70] died, message: 'Farmer was turned to ice by Ice Dragon'
 [24Dec2024 04:38:11.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cafeconpan08 has made the advancement [Dragonslayer]
+[24Dec2024 04:41:21.883] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/67099, l='ServerLevel[world]', x=-1431.34, y=73.00, z=1681.26] died, message: 'Nitwit was turned to ice by Ice Dragon'
+[24Dec2024 04:41:43.130] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/66970, l='ServerLevel[world]', x=-1435.95, y=73.13, z=1694.71] died, message: 'Villager was slain by Ice Dragon'
+[24Dec2024 04:41:46.068] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/66942, l='ServerLevel[world]', x=-1411.51, y=75.59, z=1717.60] died, message: 'Fisherman was frozen by Ice Dragon'
+[24Dec2024 04:42:00.469] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/66940, l='ServerLevel[world]', x=-1410.78, y=68.50, z=1739.81] died, message: 'Fisherman walked into a cactus whilst trying to escape Ice Dragon'
+[24Dec2024 04:42:07.274] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/66969, l='ServerLevel[world]', x=-1409.54, y=73.00, z=1718.69] died, message: 'Leatherworker was slain by Ice Dragon'
+[24Dec2024 04:44:00.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Enzosunder moved too quickly! 9.337959508092098,-2.0784000015258925,3.2298400658739865
+[24Dec2024 04:49:58.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADES5: Teleported ADES5 to Zoti5]
+[24Dec2024 04:51:49.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cafeconpan08 moved wrongly!
+[24Dec2024 04:52:56.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADES5: Teleported cafeconpan08 to ADES5]
+[24Dec2024 04:55:01.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADES5: Set own game mode to Creative Mode]

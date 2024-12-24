@@ -799,6 +799,7 @@
       "cooked_beef": "2024-12-18 22:29:33 +0000",
       "beef": "2024-12-18 22:55:26 +0000",
       "porkchop": "2024-12-18 21:37:54 +0000",
+      "apple": "2024-12-24 04:53:23 +0000",
       "pumpkin_pie": "2024-12-20 01:14:10 +0000",
       "mutton": "2024-12-18 21:53:01 +0000",
       "bread": "2024-12-19 22:13:08 +0000",
@@ -5588,6 +5589,30 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_sapphire_boots": {
+    "criteria": {
+      "has_item": "2024-12-24 04:39:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_ice_dragon": "2024-12-24 04:38:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_helmet": {
+    "criteria": {
+      "has_item": "2024-12-24 04:39:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-24 04:39:43 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_abandoned_temple": {
     "criteria": {
       "location0": "2024-12-24 04:30:22 +0000"
@@ -5597,6 +5622,18 @@
   "iceandfire:iceandfire/stymphalian_arrow": {
     "criteria": {
       "bestiary": "2024-12-24 04:31:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_sapphire_to_dragonscale_sapphire": {
+    "criteria": {
+      "has_dragonscales_sapphire": "2024-12-24 04:39:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_leggings": {
+    "criteria": {
+      "has_item": "2024-12-24 04:39:43 +0000"
     },
     "done": true
   },
