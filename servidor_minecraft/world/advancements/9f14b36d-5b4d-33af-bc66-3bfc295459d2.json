@@ -5116,78 +5116,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-23 08:19:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-23 08:19:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-23 08:19:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-23 08:19:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-23 08:19:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-23 08:19:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-23 08:19:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-23 08:19:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-23 08:19:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-23 08:19:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-23 08:19:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-23 08:19:24 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2024-12-23 07:55:41 +0000"
@@ -5212,6 +5140,66 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonsteel_lightning_shovel": {
+    "criteria": {
+      "has_item": "2024-12-23 08:05:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_lightning_boots": {
+    "criteria": {
+      "has_item": "2024-12-23 08:05:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonsteel_lightning_ingot_to_dragonsteel_lightning_block": {
+    "criteria": {
+      "has_dragonsteel_lightning_ingot": "2024-12-23 08:05:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_lightning_helmet": {
+    "criteria": {
+      "has_item": "2024-12-23 08:05:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_lightning_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-23 08:05:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_lightning_leggings": {
+    "criteria": {
+      "has_item": "2024-12-23 08:05:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_lightning_axe": {
+    "criteria": {
+      "has_item": "2024-12-23 08:05:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_lightning_hoe": {
+    "criteria": {
+      "has_item": "2024-12-23 08:05:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_lightning_sword": {
+    "criteria": {
+      "has_item": "2024-12-23 08:05:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_lightning_pickaxe": {
+    "criteria": {
+      "has_item": "2024-12-23 08:05:51 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonsteel_ice_helmet": {
     "criteria": {
       "has_item": "2024-12-23 08:06:50 +0000"
@@ -5230,12 +5218,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/tools/dragonsteel_lightning_shovel": {
-    "criteria": {
-      "has_item": "2024-12-23 08:05:51 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/tools/dragonsteel_ice_sword": {
     "criteria": {
       "has_item": "2024-12-23 08:06:50 +0000"
@@ -5248,63 +5230,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/dragonsteel_lightning_boots": {
-    "criteria": {
-      "has_item": "2024-12-23 08:05:51 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonsteel_lightning_ingot_to_dragonsteel_lightning_block": {
-    "criteria": {
-      "has_dragonsteel_lightning_ingot": "2024-12-23 08:05:51 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/combat/cannon": {
-    "criteria": {
-      "has_ship": "2024-12-23 08:10:29 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonsteel_lightning_helmet": {
-    "criteria": {
-      "has_item": "2024-12-23 08:05:51 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonsteel_lightning_chestplate": {
-    "criteria": {
-      "has_item": "2024-12-23 08:05:51 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragonbone_flaming_sword": {
-    "criteria": {
-      "sword": "2024-12-23 08:07:05 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonsteel_lightning_leggings": {
-    "criteria": {
-      "has_item": "2024-12-23 08:05:51 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/dragonsteel_ice_chestplate": {
     "criteria": {
       "has_item": "2024-12-23 08:06:50 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonsteel_lightning_axe": {
-    "criteria": {
-      "has_item": "2024-12-23 08:05:51 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonsteel_lightning_hoe": {
-    "criteria": {
-      "has_item": "2024-12-23 08:05:51 +0000"
     },
     "done": true
   },
@@ -5314,21 +5242,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/tools/dragonsteel_lightning_sword": {
-    "criteria": {
-      "has_item": "2024-12-23 08:05:51 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/tools/dragonsteel_ice_axe": {
     "criteria": {
       "has_item": "2024-12-23 08:06:50 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonsteel_lightning_pickaxe": {
-    "criteria": {
-      "has_item": "2024-12-23 08:05:51 +0000"
     },
     "done": true
   },
@@ -5341,6 +5257,18 @@
   "iceandfire:recipes/tools/dragonsteel_ice_pickaxe": {
     "criteria": {
       "has_item": "2024-12-23 08:06:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2024-12-23 08:07:05 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/combat/cannon": {
+    "criteria": {
+      "has_ship": "2024-12-23 08:10:29 +0000"
     },
     "done": true
   },
