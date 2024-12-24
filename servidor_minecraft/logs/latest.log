@@ -1220,3 +1220,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Dec2024 04:51:49.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cafeconpan08 moved wrongly!
 [24Dec2024 04:52:56.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADES5: Teleported cafeconpan08 to ADES5]
 [24Dec2024 04:55:01.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADES5: Set own game mode to Creative Mode]
+[24Dec2024 05:03:35.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enzosunder has made the advancement [Best Friends Forever]
+[24Dec2024 05:04:06.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cafeconpan08 has made the advancement [Mother of Dragons]
+[24Dec2024 05:04:08.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADES5: Set own game mode to Survival Mode]
+[24Dec2024 05:04:16.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADES5: Set own game mode to Creative Mode]
+[24Dec2024 05:04:31.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enzosunder has made the advancement [Dragon Growth Hormone]
+[24Dec2024 05:04:40.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADES5: Set own game mode to Survival Mode]
+[24Dec2024 05:04:41.075] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADES5 lost connection: Disconnected
+[24Dec2024 05:04:41.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADES5 left the game
+[24Dec2024 05:04:41.076] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 47bb66ad-fb58-339e-805b-0523264facf1 was unloaded
+[24Dec2024 05:04:41.076] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ADES5
+[24Dec2024 05:10:55.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Enzosunder> t
+[24Dec2024 05:11:15.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Enzosunder> t
+[24Dec2024 05:13:01.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Enzosunder) moved wrongly! 0.6179830554206972
+[24Dec2024 05:17:28.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cafeconpan08 has made the advancement [Best Friends Forever]

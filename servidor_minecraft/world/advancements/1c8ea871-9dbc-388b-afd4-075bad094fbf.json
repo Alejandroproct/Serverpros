@@ -5053,6 +5053,18 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2024-12-24 05:04:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-24 05:03:35 +0000"
+    },
+    "done": true
+  },
   "wither_rework:nether/obtain_nether_star": {
     "criteria": {
       "requirement": "2024-12-24 04:14:30 +0000"
@@ -5101,9 +5113,21 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/kobold": {
+    "criteria": {
+      "kill": "2024-12-24 05:05:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2024-12-24 04:14:30 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:recipes/misc/fur_to_leather": {
+    "criteria": {
+      "has_fur": "2024-12-24 05:10:10 +0000"
     },
     "done": true
   },
